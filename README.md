@@ -98,3 +98,18 @@ By analyzing the feature importance of each feature in the model we can determin
 Eventually, I would like to revisit this project and improve a few things, namely the model's ability to predict emerging artists and the model's overall precision. I suspect that adding new datasets may have a positive impact on these issues.
 
 <img src="viz/precision_recall_curves.svg" alt="precision recall curve" width="400"/>
+
+## Tools
+* Jupyter Notebook
+* Tableau
+* Atom
+* AWS EC-2
+* SQLite
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+* Imblearn
+* Scikit-learn  
+* XGBoost
+*

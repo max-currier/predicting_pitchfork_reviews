@@ -15,7 +15,7 @@ Pitchfork.com is an established music blog that reviews artists both famous and 
 
 ## Methodology
 
-The goal of this project was to analyze Pitchfork music reviews in order to gain key insights on what determines critical success on a major, influential platform. To accomplish this, **I used a gradient boosting decision tree algorithm (XGBoost) to predict whether or not an album Pitchfork-reviewed album will be categorized as “Best New Music”**
+The goal of this project was to analyze Pitchfork music reviews in order to gain key insights on what determines critical success on a major, influential platform. To accomplish this, **I used a gradient boosting decision tree algorithm (XGBoost) to predict whether or not a Pitchfork-reviewed album will be categorized as “Best New Music”**
 
 All data procured from the following sources:
 
